@@ -2,6 +2,11 @@ import { useState } from "react";
 import Header from "./components/ui/Header.component";
 import Footer from "./components/ui/Footer.component";
 
+import IconButton from "@mui/material/IconButton";
+import DeleteIcon from "@mui/icons-material/Delete";
+import SaveIcon from "@mui/icons-material/Save";
+import { TextField } from "@mui/material";
+
 function App() {
   const [list, setList] = useState([]);
   const [value, setValue] = useState("");
@@ -29,18 +34,29 @@ function App() {
         {/* heading */}
         <h2>
           Youtube Simple Todo App{" "}
-          <button className="ml-6 btn-clear-all" onClick={handleClearAll}>
-            Clear All
-          </button>
+          <IconButton aria-label="delete" color="primary" onClick={handleClearAll}>
+            <DeleteIcon />
+          </IconButton>
         </h2>
 
         {/* create new todo */}
         <div className="create-section">
-          <label>Todo</label>
-          <input type="text" className="input" value={value} onChange={(e) => setValue(e.target.value)} />
-          <button className="button" onClick={clickHandler}>
+          {/* <label>Todo</label> */}
+          {/* <input type="text" className="input" value={value} onChange={(e) => setValue(e.target.value)} /> */}
+          <TextField
+            className="input"
+            label="ToDo"
+            variant="outlined"
+            value={value}
+            onChange={(e) => setValue(e.target.value)}
+          />
+
+          {/* <button className="button" onClick={clickHandler}>
             Save
-          </button>
+          </button> */}
+          <IconButton aria-label="delete" color="primary" onClick={clickHandler}>
+            <SaveIcon />
+          </IconButton>
         </div>
 
         {/* show our todo list */}
