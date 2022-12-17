@@ -1,6 +1,7 @@
 import React from "react";
 import { FaBars } from "react-icons/fa";
 import "./Header.css";
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
@@ -10,19 +11,19 @@ const Header = () => {
       </div>
       <ul>
         <li>
-          <a href="#">Home</a>
+          <Link to="/">Home</Link>
         </li>
         <li>
-          <a href="#">Services</a>
+          <Link to="/todos">Todos</Link>
         </li>
         <li>
-          <a href="#">FAQ</a>
+          <Link to="/faq">FAQ</Link>
         </li>
         <li>
-          <a href="#">AboutUs</a>
+          <Link to="/about-us">AboutUs</Link>
         </li>
         <li>
-          <a href="#">ContactUs</a>
+          <Link to="/contact-us">ContactUs</Link>
         </li>
       </ul>
       <FaBars className="menu-bars" />

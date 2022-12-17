@@ -16,9 +16,9 @@ body {
   margin: 0 auto;
   padding: 1rem;
   border-radius: 8px;
-  /* Header height = 40px */
-  /* Footer height = 40px */
-  min-height: calc(100vh - 40px - 40px);
+  /* Header height = 60px */
+  /* Footer height = 60px */
+  min-height: calc(100vh - 60px - 60px);
   
 
 }
@@ -76,3 +76,6 @@ body {
   margin-left: 6px;
 }
 
+.text-center {
+  text-align: center;
+}
