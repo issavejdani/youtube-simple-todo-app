@@ -4,7 +4,7 @@ __________
 ## V 04
 
 * [Netlify](https://youtube-simple-todo-app-v04.netlify.app/)
-* [Youtube Tutorial Video]()
+* [Youtube Tutorial Video](https://www.youtube.com/watch?v=gkd-IQ97pXU)
 __________
 
 ## V 03
