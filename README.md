@@ -1,23 +1,24 @@
+A simple todo app using React.
 # Links:
-[Youtube Plalist](https://www.youtube.com/playlist?list=PLUX0GmrifrwdXOqmkh8y_3N5BGpkzIPmg)
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLUX0GmrifrwdXOqmkh8y_3N5BGpkzIPmg)
 __________
-## V 04
+## Ver 4.0.0
 
-* [Netlify](https://youtube-simple-todo-app-v04.netlify.app/)
-* [Youtube Tutorial Video](https://www.youtube.com/watch?v=gkd-IQ97pXU)
+* Demo on [Netlify](https://youtube-simple-todo-app-v04.netlify.app/)
+* Video tutoial on [Youtube](https://www.youtube.com/watch?v=gkd-IQ97pXU)
 __________
 
-## V 03
+## Ver 3.0.0
 
-* [Netlify](https://youtube-simple-todo-app-v03.netlify.app/)
-* [Youtube Tutorial Video](https://www.youtube.com/watch?v=oxgmjJqKMWo)
+* Demo on [Netlify](https://youtube-simple-todo-app-v03.netlify.app/)
+* Video tutoial on [Youtube](https://www.youtube.com/watch?v=oxgmjJqKMWo)
 __________
-## V 02
+## Ver 2.0.0
 
-* [Netlify](https://youtube-simple-todo-app-v02.netlify.app/)
-* [Youtube Tutorial Video](https://www.youtube.com/watch?v=fnaZbPCTSmM)
+* Demo on [Netlify](https://youtube-simple-todo-app-v02.netlify.app/)
+* Video tutoial on [Youtube](https://www.youtube.com/watch?v=fnaZbPCTSmM)
 __________
-## V 01:
+## Ver 1.0.0
 
-* [Netlify](https://youtube-simple-todo-app.netlify.app/)
-* [Youtube Tutorial Video](https://www.youtube.com/watch?v=pNWdRdmtGdI)
+* Demo on [Netlify](https://youtube-simple-todo-app.netlify.app/)
+* Video tutoial on [Youtube](https://www.youtube.com/watch?v=pNWdRdmtGdI)
