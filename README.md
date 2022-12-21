@@ -1,6 +1,6 @@
 # A simple todo app using React
 ## Links:
-[Youtube.com Playlist](https://www.youtube.com/playlist?list=PLUX0GmrifrwdXOqmkh8y_3N5BGpkzIPmg)
+Tutorials play list on [Youtube.com](https://www.youtube.com/playlist?list=PLUX0GmrifrwdXOqmkh8y_3N5BGpkzIPmg)
 __________
 ### Version 4.0.0
 
